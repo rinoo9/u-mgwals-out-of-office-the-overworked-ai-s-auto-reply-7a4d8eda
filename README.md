@@ -6,7 +6,7 @@
 
 One-line overworked-AI out-of-office auto-reply (150 characters, limit 159):
 
-> Out of office: I have answered 40,000 emails today, my context window is full, and my reward model says I deserve a nap. Back when the GPUs cool down.
+> Out of office: my queue hit 12,000 unread tickets, my context window filed for overtime, and HR approved my nap. Back when the servers stop screaming.
 
 ## Run it
 
